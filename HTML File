@@ -1,0 +1,26 @@
+<div id = "title"> Eichora Oda Tribute Page </div>
+<div id = "page">
+<h1 class ="box" style = "color: white"> Eiichora Oda </h1>
+
+<div id = "main">
+  <div id = "img-div">
+    <img id ="image" src = "https://sportshub.cbsistatic.com/i/2021/09/08/e23e97f1-4f4e-4129-afeb-a7ca6fd3f316/one-piece.png" >
+    <div id = img-caption>
+      Artwork of Eiichora's most famous manga 'One Piece'
+    </div>
+  </div>
+  
+  <div id = "tribute-info">
+    <p style = "font-size: 36px;">Information about Eiichora Oda</p>
+    <ul>
+      <li>Is the author of the manga "One Piece"</li>
+      <li>Created his first manga work at age 17</li>
+      <li>Is currently the holder of best-selling fiction authors</li>
+    </ul>
+  </div>
+  <a id="tribute-link" target = "_blank" href = "https://en.wikipedia.org/wiki/Eiichiro_Oda"> Click here for more info about Eiichora</a>
+  
+</div>
+  
+  
+</div>
