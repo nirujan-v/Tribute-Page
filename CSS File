@@ -1,0 +1,47 @@
+<style>
+
+{}
+a{
+  color: white;
+  font-size: 24px;
+}
+p {
+  font-size: 36px;
+  color: darkslateblue;
+  text-align: center;
+}
+ul{
+  font-size: 24px;
+  text-align: center;
+}
+#image{
+  display: block;
+  max-width: 1000px;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+ }
+h2 {
+  color: red;
+}
+#tribute-link{
+  text-align: center;
+}
+
+.box {
+    text-align: center;
+    
+  }
+#img-div {
+  width: 100%;
+}
+#page{
+  background-color: darkslateblue;
+}
+
+#tribute-info{
+  border-type: solid;
+  background-color: beige;
+}
+</style>
